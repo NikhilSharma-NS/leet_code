@@ -1,0 +1,15 @@
+site_name: Leet Code Solution In Go Lang
+site_url: https://pages.github.com/NikhilSharma-NS/leet-code
+nav:
+  - Two sum : problem1.md
+  - Add two numbers : problem2.md 
+  - Longest substring without repeating characters: problem3.md
+
+theme: 
+  name: 'readthedocs'
+  collapse_by_default: false
+  highlightjs:  true
+
+markdown_extensions:
+  - toc: 
+      permalink: #

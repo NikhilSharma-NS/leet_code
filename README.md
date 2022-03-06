@@ -1,1 +1,5 @@
-# leet_code
+# Leet Code Solution 
+
+
+- python -m mkdocs serve
+
