@@ -1,5 +1,5 @@
 site_name: Leet Code Solution In Go Lang
-site_url: https://pages.github.com/NikhilSharma-NS/leet-code
+site_url: https://nikhilsharma-ns.github.io/
 nav:
   - Two sum : problem1.md
   - Add two numbers : problem2.md 
